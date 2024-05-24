@@ -6,17 +6,17 @@
 
 <br clear="both">
 
-<h1 align="center">Hi, I'm Apurva!👋</h1>
+<h1 align="center"><em>Hi, I'm Apurva!👋</em></h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me:</h3>
+<h2 align="left">👩‍💻  <em> About Me:</em></h2>
 
 ###
 
 <p align="left">I am a data management and analytics enthusiast with over 1.5 years of professional experience. I excel in:<br><br>📊 Managing complex datasets<br>📈 Performing advanced statistical analysis<br>🔍 Deriving actionable insights<br>🧠 Driving strategic decision-making<br>⚙️ Enhancing operational efficiency<br><br>I am proficient in a wide range of technologies and tools and passionate about leveraging data to solve real-world problems.</p>
 
-<h3 align="left">🛠 TechStacks:</h3>
+<h2 align="left">🛠 <em>TechStacks:</em></h2>
 
 ###
 
@@ -56,14 +56,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="40" alt="PowerBi logo"  />
+  <img width="12" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="40" alt="Tableau logo"  />
+  <img width="12" />
 </div>
 
-### 📊 My Stats:
+## 📊 *My Stats:*
 ![](https://github-readme-stats.vercel.app/api?username=apurva-p1599&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=apurva-p1599&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apurva-p1599&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ *Random Dev Quote:*
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
